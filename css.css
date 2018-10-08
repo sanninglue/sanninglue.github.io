@@ -1,0 +1,37 @@
+p{
+    color: #FF8000;
+    font-style:italic;
+    text-align: center;
+}
+
+body{
+    background-image: url(image/white-background-4.jpg);
+    background-size:cover;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffe6cc;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #4d2800;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #ffb566;
+}
+
+
